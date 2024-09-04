@@ -1,0 +1,15 @@
+Machine:   Zeyad-Elgamal-MacBook.local in domain 
+User:      zeyadelgamal
+Mode:      64-Bit
+Display:   Display not detectable
+Driver:    Driver not detectable
+CPU:       Name: 
+           Model: 0, Family: 0, Stepping: 0 
+           Total Threads: 8
+           Features: 
+Base path: /Applications/Adobe Premiere Pro 2022/Adobe Premiere Pro 2022.app/Contents/MacOS/
+Arguments: 
+
+21:15:43 [IrLog]           LogFile initialized
+21:15:43 [GlobalSettings]  Loading user settings from /Users/zeyadelgamal/Documents/Adobe/Lumetri/9.0/settings/User_Settings.xml
+21:15:43 [GlobalSettings]  Failed to load user settings, using default values.
